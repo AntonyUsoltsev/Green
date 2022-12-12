@@ -2,8 +2,8 @@
 
 int main() {
 
-
-    std::cout << "Fix Green!" << std::endl;
+    int a;
+        std::cout << "Fix Green!" << std::endl;
     std::cout << "Fix Green!" << std::endl;
         return 0;
 
